@@ -1,0 +1,56 @@
+/* La chasse aux unités — style.css */
+
+/* Point de départ : tout est en px. Remplacez par des unités relatives. */
+
+body {
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 1.5;
+    color: #222;
+}
+
+/* Consigne 2 et 6 : largeur du conteneur */
+/* Consigne 3 : marge du conteneur */
+.conteneur {
+    width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+}
+
+/* Consigne 4 : taille du titre */
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-top: 24px;
+}
+
+p {
+    margin-bottom: 16px;
+}
+
+.intro {
+    font-size: 18px;
+    color: #555;
+}
+
+blockquote {
+    border-left: 4px solid #0055aa;
+    padding: 12px 20px;
+    margin: 20px 0;
+    background: #e8f0fe;
+    font-style: italic;
+}
+
+ul {
+    padding-left: 24px;
+}
+
+li {
+    margin-bottom: 8px;
+}

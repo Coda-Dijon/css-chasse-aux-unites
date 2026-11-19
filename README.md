@@ -77,3 +77,9 @@ Avant de changer le CSS.
 3. Remplacer la largeur du conteneur par **`min(90%, 60rem)`**
 4. Redimensionner la fenêtre, zoomer, dézoomer. Qu'est-ce qui change ?
 
+## 7 - Image de potichat
+
+1. Pourquoi l'image du potichat est déformée ?
+2. Changer la largeur `witdh` de l'élément `figure`(`20rem`) par `30rem`
+3. Qu'est-ce qui change au niveau de l'image ?
+2. Comment peut-on maintenir les proportions de l'image du potichat tout en gardant la hauteur fixe ?
